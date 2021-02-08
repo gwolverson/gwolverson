@@ -6,7 +6,7 @@
 
 - 📖 Author of the [The Engineering Collective](https://the-engineering-collective.github.io/)
 
-- 🖊️ Blogger at the [Capgemini Engineering Blog](https://capgemini.github.io/)
+- 🖊️ Blogger at the [Capgemini Engineering Blog](https://capgemini.github.io/authors/#author-greg-wolverson)
 
 - 🧍 Learn more about me on [my profile](https://gwolverson.github.io/)
 
