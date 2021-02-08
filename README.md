@@ -1,5 +1,7 @@
 ### Hi there I'm Greg Wolverson 👋
 
+[![Visits Badge](https://badges.pufler.dev/visits/gwolverson/gwolverson)](https://badges.pufler.dev)
+
 - 🔭 I’m currently a software engineer within the OSCE team at Capgemini
 
 - 📖 Author of the [The Engineering Collective](https://the-engineering-collective.github.io/)
